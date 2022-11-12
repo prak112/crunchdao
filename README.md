@@ -1,4 +1,4 @@
-# CrunchDAO QuantFin Tournaments
+# [CrunchDAO Tournament](https://www.crunchdao.com/)
 
 ## Aim
 - Build Predictive Models for different anonymized financial datasets 
@@ -7,8 +7,7 @@
 </br></br>
 
 ## Methods
-ML Models under exploration :
-- From Scikit-learn
+- ML Models under exploration, From Scikit-learn
     - Random Forest Regressor
     - Extra Trees Regressor
     - XG Boost Regressor
