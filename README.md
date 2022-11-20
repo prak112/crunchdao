@@ -44,3 +44,10 @@ Source : [machinelearningmastery](https://machinelearningmastery.com/arima-for-t
     - differencing raw observations (n, n-1) to make time series stationary
     - *d* , a.k.a degree of differencing
 - Used for forecasting Time Series which is non-linear (non-seasonal) and has patterns other than random white noise
+</br></br>
+#### **Koopman Operator Theory**
+Source : all info mentioned in [Jupyter Notebook](model-testrun\dpk-forecast\testrun.ipynb)
+- Koopman Operator Theory defines the Composition operator to understand dynamical non-linear systems.
+- Koopman operator helps in linearizing dynamic non-linear systems
+
+*...More notes on Koopman coming soon...*
